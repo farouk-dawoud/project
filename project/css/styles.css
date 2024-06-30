@@ -1,0 +1,11 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+.jumbotron {
+    background-color: #f8f9fa;
+}
